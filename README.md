@@ -1,97 +1,72 @@
-# Data Scientist
+# Data Scientist # Machine Learning Engineer # MLOps
 
 ![Image](/assets/img/PHeadShot.jpeg)
 
+### SATYA SANDEEP CHINTU
+- Phone: 602-565-5813
+- Email: schintu@asu.edu
+- LinkedIn: linkedin.com/sschintu
+- GitHub: github.com/sschintuz
+
+### Summary
+Dynamic professional with 4 years in IT and 6 years in Banking, skilled in SQL, PowerBI, Tableau, and Python. Proficient in managing data-centric projects, automating data pipelines, and developing testing frameworks to enhance data integrity and compliance. Committed to leveraging analytical insights to drive business decisions and operational excellence, with a strong focus on customer-centric solutions and innovation.
+
 ### Education
-Master of Science in Business Analytics
+Master of Science in Business Analytics (MSBA). May 2024  
+W.P.Carey School of Business, Arizona State University, Tempe, AZ  
+GPA: 4.0/4.0  
+Relevant coursework: Python Programming, Enterprise Data Analytics, Descriptive and Predictive Analytics, Machine Learning in Business, Business Process Analytics.
+
+### Skills
+**Database and Data Warehouse:** MySQL, Google BigQuery.  
+**Data Analytics and Visualization Tools:** Excel (Power Query, VBA, Macros, Pivot Tables, @Risk), RStudio (Tidyverse, ggplot2, Dplyr), Tableau, PowerBI, Google Analytics, Alteryx, SPSS.  
+**Programming:** Python (Pandas, Numpy, Matplotlib, Seaborn, NLTK, Spacy, OpenCV, TensorFlow, Keras, PyTorch, DBSCAN), SQL, MATLAB, R.  
+**Cloud Computing Platforms:** AWS (S3, Redshift, Athena, Glue, EMR).  
+**Statistical and Analytical Techniques:** A/B Testing, Hypothesis Testing, Time Series Modeling, Predictive Modeling, Statistical Modeling, Clustering, Sentiment Analysis, Data Wrangling, Exploratory Data Analysis, Linear and Nonlinear Programming, Monte-Carlo Simulations, Design of Experiments.
 
 ### Work Experience
-Risk Analyst @Avent Inc
-- Big Impact Project 1
-- Big Impact Project 2
+**Risk Analyst, Avnet Inc, Phoenix, AZ. (Capstone Project) Dec 2023-May 2024**
+- Led a team of four in developing a Power BI Risk and Resiliency Dashboard, leveraging 300+ MPN transactional data to enhance disruption response by 30% through effective stakeholder collaboration.
+- Revamped inventory management using advanced SQL techniques (complex joins, subqueries, window functions) and Python, achieving a 20% reduction in obsolete stock and estimated $55,000 in annual savings.
+- Implemented a What-If Analysis tool using PowerBi, enhancing supply chain robustness by 15% through strategic low-risk MPN component recommendations.
+
+**Manager (Branch Analytics and Insights), APGV Bank (Federal Owned Bank), India. Sep 2021-Jul 2023**
+- Identified and capitalized on trade finance trends using SQL and R for advanced analytics, boosting revenue by 18% and enhancing transaction efficiency by 25%, resulting in $2M additional revenue and $500K savings annually.
+- Expanded the retail loan portfolio by 15% through insights derived from machine learning models in Python and data visualization in Tableau, pinpointing growth opportunities.
+- Elevated trade credit revenue by 30% by providing expert support to over 50 clients, ensuring adherence to stringent regulatory standards through compliance analytics tools.
+- Streamlined loan disbursement processes, improving efficiency by 20% through targeted data management strategies using SAS and custom scripts.
+
+**Manager (Analytics), (Forex & Advances), State Bank of India, India. Dec 2017-Dec 2019**
+- Conducted SQL analysis on trade finance data, identifying trends, leading to an 18% revenue growth and 25% transaction efficiency improvement, yielding $2M in added revenue and $500K in annual savings.
+- Leveraged Python and Excel to analyze retail loan datasets, resulting in a 15% growth in the loan portfolio.
+- Provided trade support to 50+ customers, generating a 30% increase in trade credit revenue, while maintaining full regulatory compliance.
+- Utilized SQL techniques for data-driven loan life cycle management, leading to a 20% increase in disbursement efficiency.
+
+**Assistant Manager, State Bank of India, India. Nov 2015-Nov 2017**
+- Drove the adoption of SBI Buddy and YONO mobile apps, achieving a 20% cost reduction through decreased branch visits and boosting app registrations by 15%, enhancing customer digital engagement.
+- Conducted targeted marketing campaigns based on customer transaction patterns, leading to a 10% increase in new account openings and improved service offerings.
+
+**Software Engineer, Appqube IT Solutions, India. May 2011-Aug 2015**
+- Revamped the user interface of a major enterprise web application using HTML, CSS, and JavaScript, resulting in a 40% increase in user engagement and a 30% reduction in load times.
+- Developed a cross-platform mobile app that streamlined customer interactions, achieving a 50% increase in mobile traffic and a 20% uplift in customer retention.
+- Designed and implemented a scalable data management system to support QA testing, reducing data retrieval times by 35% and enhancing test accuracy and compliance.
 
 ### Projects
+- [Cookie Cat Game | Project Link](#)
+  - A/B Testing - Hypothesis Testing
+  - Leveraged Python for statistical hypothesis testing (F-tests and T-tests) to evaluate player engagement in two game versions.
+- [SQL-EDA-ETL | Project Link](#)
+  - Streamlining Nashville housing dataset
+  - By standardizing date formats, filling in missing data, updating values, and removing duplicates, the SQL scripts ensure the accuracy and reliability of the Nashville housing dataset, promoting data integrity for analysis and decision-making.
+- [Gentech Case Study | Project Link](#)
+  - Lean Six Sigma
+  - Deployed Lean Six Sigma methodologies to realize a 15% cut in cycle time over two years, optimizing operational efficiency.
+  - Applied DMAIC principles to attain a 2.16% drop in transaction time within one year, reaching the 3-sigma level and demonstrating expertise in data analytics and project management.
 
-Data Scientist
-Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-Education
-Master of Science in Business Analytics
-Work Experience
-Risk Analyst @Avent Inc
-- Big Impact Project 1
-- Big Impact Project 2
-
-Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
-
-Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-Projects
-Data-Driven EEG Band Discovery with Decision Trees
-Publication
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using Python. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-EEG Band Discovery
-
-Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-Publication
-
-Used Matlab to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-Bike Study
-
-Talks & Lectures
-Causality: The new science of an old question - GSP Seminar, Fall 2021
-
-Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-
-Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-
-A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-
-Weeks of Welcome Poster Competition - UTD, Fall 2019
-
-A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-Data Science YouTube
-
-Publications
-Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-Data Science Blog
-About
-Example data science portfolio
-
-shawhint.github.io/example-portfolio/
-Resources
- Readme
- Activity
-Stars
- 55 stars
-Watchers
- 2 watching
-Forks
- 240 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Deployments
-41
- github-pages 4 months ago
-+ 40 deployments
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Pri
+### Leadership Experience
+**Director of Sustainability, Graduate Student Body (GPSA) Dec 2023 – May 2024**
+- Devised a comprehensive Qualtrics survey to capture graduate students’ housing preferences, informing the university’s strategic planning for designated graduate housing.
+- Employed PowerBI for data analysis and visualization of survey responses.
+- Coordinated community events such as Blue Bag Sorting and Keep Tempe Beautiful.
+- Increased community participation by 30% and minimized waste production by 20%, fostering sustainability.
+- Led a cross-disciplinary sustainability task force of 6 members.
