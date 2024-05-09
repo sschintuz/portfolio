@@ -1,6 +1,6 @@
 # Data Scientist # Machine Learning Engineer # MLOps
 
-![Image](/assets/img/PHeadShot.jpeg)
+![Image](/assets/img/PHeadshot.png)
 
 ### SATYA SANDEEP CHINTU
 - Phone: 602-565-5813
