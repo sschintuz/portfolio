@@ -1,9 +1,6 @@
-# portfolio
-sschintu.github.io/portfolio
-
 # Data Scientist
 
-![Image](/assets/PHeadShot.jpeg)
+![Image](/assets/img/PHeadShot.jpeg)
 
 ### Education
 Master of Science in Business Analytics
