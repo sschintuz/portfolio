@@ -1,5 +1,5 @@
 title: Satya Chintu
 logo: !image[/assets/PHeadshot.png]
-descriptions: text below image
+#descriptions: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
