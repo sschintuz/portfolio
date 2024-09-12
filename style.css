@@ -2135,8 +2135,8 @@ select.mobile-device {
 
 .footer {
     padding: 90px 0 80px !important;
-    color: #999;
-    background-color: #1f1f1f;
+    color: #333; /* Darker text to contrast with the light blue */
+    background-color: #ADD8E6; /* Light blue background */
 }
 
 .footer .widget-title {
